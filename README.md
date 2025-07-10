@@ -8,7 +8,7 @@
 </div>
 
 <br/>
-
+<!--
 <div align="center">
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
-
+-->
 ---
 
 ## 🧠 About Me
