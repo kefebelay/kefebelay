@@ -45,8 +45,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dracula&hide_border=false&border_radius=5" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=your-username&theme=dracula&margin-w=8&margin-h=8" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=kefebelay&theme=dracula&hide_border=false&border_radius=5" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=kefebelay&theme=dracula&margin-w=8&margin-h=8" height="150"/>
 </div>
 
 ---
